@@ -39,6 +39,12 @@ npm test -- --testPathPattern=App  # Run a single test file
 
 **TypeScript:** Strict mode, ES2016 target, `react-jsx` transform (no need to import React in every file), `moduleResolution: "bundler"`.
 
+## Learning notes guidance
+
+When analyzing what's missing from a project's README learning notes:
+- Cross-reference all other projects in this monorepo first. If a concept is already documented in another project's README (e.g. `react-hook-form` in `todo-list/README.md`), do not flag it as missing.
+- The user has strong TypeScript background. Do not suggest documenting TypeScript language features (utility types, generics, etc.) as learning gaps.
+
 ## Project-specific notes
 
 ### realtime-gold
