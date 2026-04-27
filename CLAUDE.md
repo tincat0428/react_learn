@@ -11,6 +11,7 @@ This is a monorepo of independent React learning projects. Each subdirectory is 
 | `realtime-gold/` | Real-time gold price display — React 19 + axios + Tailwind |
 | `todo-list/` | Todo list with form validation — React 19 + react-hook-form + Tailwind |
 | `users-manage/` | User management app — React 19 + TypeScript + Tailwind |
+| `theme-lang/` | Theme & language switching demo — React 19 + TypeScript + Tailwind |
 
 ## Creating a new project
 

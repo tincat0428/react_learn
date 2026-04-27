@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git *)",
+      "Bash(npm i *)",
+      "Bash(npm start *)",
+      "Bash(curl -s http://localhost:3000)",
+      "Bash(npx tsc *)",
+      "Bash(npx react-scripts *)",
+      "Bash(npm install *)"
+    ]
+  }
+}
